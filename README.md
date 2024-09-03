@@ -1,4 +1,4 @@
-This is Manal Abo Makho.
+This is Manal Ibrahim Abo Makho.
 
 ### Date created
 This project created in july 2024.
